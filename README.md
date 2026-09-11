@@ -15,9 +15,13 @@ I’m a Computer Science student at **COMSATS University Islamabad, Abbottabad C
 
 ### Current Projects
 
-**SentinelDecoy** — Adaptive cyber deception and real-time threat detection platform.
+**SentinelDecoy** -- Adaptive cyber deception and real-time threat detection platform.
 
-**Cypher** — Cybersecurity toolkit and SOC workbench for threat intelligence, OSINT, URL analysis, and security log analysis.
+**Cypher** -- Cybersecurity toolkit and SOC workbench for threat intelligence, OSINT, URL analysis, and security log analysis.
+
+**Campus Lost and Found System** -- A system where students can add lost items and retreive their respective belongings.
+
+**Ai Music Player System** -- An Ai based music player system which on user behavior gives playlist of recommended music.
 
 ### Tech Stack
 
